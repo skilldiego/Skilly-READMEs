@@ -122,7 +122,7 @@ To replicate the visual style of *Ocarina of Time 3D*, follow these steps to ins
     *   Delete the following files from the `mods` folder: 
         *  `Djipi's 3DE - 02 Link's Textures (Delete if using a custom player model).otr`
 1.  **Restart:** Restart Ship of Harkinian to apply the new textures.
-1.  **Grotto Fix:** Press **Esc**, navigate to **Enhancements**, and enable **Disable Grotto Fixed Rotation**.
+1.  **Grotto and 2D Pre-Rendered Fix:** Press **Esc**, navigate to **Enhancements**, and enable **Disable Grotto Fixed Rotation** and **Disable 2D Pre-Rendered Scenes**.
 
 **Troubleshooting Visual Glitches:**
 If you encounter graphical issues with the 3DS setup, follow these steps to ensure correct texture layering:
@@ -136,5 +136,7 @@ If you encounter graphical issues with the 3DS setup, follow these steps to ensu
     *   `Djipi's 3DE - ## *.otr` (Numbered files: Highest numbers at the top, lowest at the bottom)
     *   `OoT_Reloaded_v*.o2r`
 
-## Final Notes
-Enjoy playing Ocarina of Time!
+# Conclusion
+With these settings, you are ready to experience **Ocarina of Time** at its best. Ship of Harkinian breathes new life into this classic with high frame rates, modern controls, and enhanced visuals.
+
+Enjoy your journey through Hyrule!
