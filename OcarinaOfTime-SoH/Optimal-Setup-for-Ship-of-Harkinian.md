@@ -7,7 +7,7 @@ This guide details the optimal setup process, from installation to configuration
 
 # Initial Setup
 1. Find or dump a supported **Legend of Zelda: Ocarina of Time (OoT)** ROM.
-1. Download the latest release of **Ship of Harkinian (SoH)** for your OS from GitHub.
+1. Download the latest release of **Ship of Harkinian (SoH)** for your OS from [GitHub](https://github.com/HarbourMasters/Shipwright/releases/latest). 
 1. Extract the downloaded ZIP file to a folder.
 1. Move the OoT ROM into the extracted SoH folder.
 1. Start the `soh` binary (executable).
@@ -15,6 +15,11 @@ This guide details the optimal setup process, from installation to configuration
 1. Select your detected ROM and click **Yes**.
 1. Wait for the generation process to complete. If asked to add another ROM, click **No**.
 1. Ship of Harkinian will start running Ocarina of Time on your machine.
+
+# In-Game Optimization
+1. On the file select screen, navigate to **Options**.
+1. Set **Sound** to **Surround**.
+1. Change **Z Targeting** to **Hold** to mimic modern Zelda controls.
 
 # Optimal Controller Setup
 Ship of Harkinian supports most controllers (Xbox, PlayStation, Switch) out of the box. If you do not have a dual analog controller, skip these steps.
@@ -50,3 +55,40 @@ To configure and remap buttons:
     *   Close the **Controls** window.
     *   Go to **Enhancements** > **Quality of Life**.
     *   Enable **Answer Navi Prompt with L Button**.
+1. **Ready to Play:** Press **Esc** to close the menu and start the game. If you wish to apply further enhancements, proceed to the next section.
+
+# Optimal Graphics
+To achieve the best visual experience in Ocarina of Time, configure the following settings:
+
+1. Press **Esc** to open the menu, then navigate to **Settings** > **Graphics**.
+1. **High Frame Rate:** Check **Match Refresh Rate**. This unlocks the frame rate from the original 20 FPS to match your monitor's refresh rate.
+1. Navigate to the **Enhancements** tab at the top, then select **Graphics**.
+1. **Models & Textures:** Enable the following options to improve asset quality:
+    *   **Disable LOD** (Level of Detail)
+    *   **Enable 3D Dropped Items/Projectiles**
+    *   **Animated Link in Pause Menu**
+    *   **Show Gauntlets in First-Person**
+1. **Draw Distance:** Increase **Actor Draw Distance** to **5x** (Max) and enable **Widescreen Actor Culling**.
+1. **Fix Vanishing Paths:** To prevent textures from disappearing at certain camera angles:
+    *   Go to **Enhancements** > **Fixes**.
+    *   Change **Fix Vanishing Paths** from *Disabled* to **No Vanish**.
+
+# Quality of Life and Convenience
+While Ship of Harkinian offers extensive QoL options, some can alter the game's original feel. The recommendations below aim to reduce frustration for new players while preserving the core experience.
+
+1. Press **Esc** to open the menu.
+1. Navigate to **Enhancements** > **Quality of Life**.
+    *   **Saving:** Enable **Remember Save Location**.
+    *   **Item Count Messages:** Enable **Gold Skulltula Tokens**, **Pieces of Heart**, and **Heart Containers**.
+    *   **Misc:** Enable **Better Owl**.
+    *   **Convenience:** Enable **Instant Putaway**.
+1. Navigate to **Enhancements** > **Items**.
+    *   **Equipment:** Enable **Equip Items on Dpad**, **Assignable Tunics and Boots**, and **Ask to Equip New Items**.
+    *   **Ocarina:** Enable **Prevent Dropped Ocarina Inputs** and **Fast Ocarina Playback**.
+    *   **Masks:** Set **Bunny Hood Effect** to **Faster + Longer Jump**. Enable **Mask Equippable as Adult** and **Persistent Masks**.
+    *   **Bow / Slingshot:** Enable **Equip Multiple Arrows at Once**, **Skip Magic Arrow Equip Animation**, and **Aiming Reticle**.
+    *   **Hookshot:** Enable **Targetable Hookshot Reticle**.
+    *   **Magic Spells:** Enable **Better Farore's Wind** and **Faster Farore's Wind**.
+    *   **Bottles:** Enable **Rebottle Blue Fire**.
+1. Navigate to **Enhancements** > **Fixes**.
+    *   **Camera Fixes:** Enable **Fix Camera Drift**, **Fix Camera Swing**, and **Fix Hanging Ledge Swing Rate**.
