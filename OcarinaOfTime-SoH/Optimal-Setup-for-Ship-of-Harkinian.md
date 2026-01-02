@@ -94,3 +94,29 @@ While Ship of Harkinian offers extensive QoL options, some can alter the game's 
     *   **Bottles:** Enable **Rebottle Blue Fire**.
 1. Navigate to **Enhancements** > **Fixes**.
     *   **Camera Fixes:** Enable **Fix Camera Drift**, **Fix Camera Swing**, and **Fix Hanging Ledge Swing Rate**.
+
+# Texture Packs
+This section covers recommended texture pack mods to enhance the visual fidelity of Ocarina of Time.
+
+### OoT Reloaded
+**OoT Reloaded** is a comprehensive high-definition texture pack created by GhostlyDark. It aims to modernize the game's visuals while remaining faithful to the original N64 aesthetic.
+
+1.  Visit the [OoT Reloaded website](https://evilgames.eu/texture-packs/oot-reloaded.htm) and download the **OTR** version.
+1.  Extract the downloaded `.7z` file.
+1.  Move the `.o2r` file into the `mods` folder located inside your Ship of Harkinian directory.
+1.  Restart Ship of Harkinian to apply the new textures.
+
+### 3DS Aesthetic
+To replicate the visual style of *Ocarina of Time 3D*, follow these steps to install the necessary character models and texture packs.
+
+1.  **Download Character Models:**
+    *   Visit [Playas 3DS Adult and Young Link](https://gamebanana.com/mods/download/475743).
+    *   Download `3ds_link_-_adult_child.zip` and `ai-upscaled-a_y-link_textures.zip`.
+1.  **Download Texture Pack:**
+    *   Visit [Djipi's 3DS Experience](https://gamebanana.com/mods/download/477979).
+    *   Download `djipi_s_3ds_experience.zip`.
+1.  **Install:**
+    *   Extract the `.otr` files from the downloaded ZIP archives.
+    *   Move them into the `mods` folder within your Ship of Harkinian directory.
+    *   Delete the file `Djipi's 3DE - 02 Link's Textures (Delete if using a custom player model).otr` in the mods folder.
+1. Restart Ship of Harkinian to apply the new textures.
