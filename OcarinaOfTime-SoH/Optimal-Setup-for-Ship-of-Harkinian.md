@@ -114,9 +114,17 @@ To replicate the visual style of *Ocarina of Time 3D*, follow these steps to ins
     *   Download `3ds_link_-_adult_child.zip` and `ai-upscaled-a_y-link_textures.zip`.
 1.  **Download Texture Pack:**
     *   Visit [Djipi's 3DS Experience](https://gamebanana.com/mods/download/477979).
-    *   Download `djipi_s_3ds_experience.zip`.
+    *   Download `djipi_s_3ds_experience.zip`
 1.  **Install:**
     *   Extract the `.otr` files from the downloaded ZIP archives.
     *   Move them into the `mods` folder within your Ship of Harkinian directory.
-    *   Delete the file `Djipi's 3DE - 02 Link's Textures (Delete if using a custom player model).otr` in the mods folder.
-1. Restart Ship of Harkinian to apply the new textures.
+    *   Delete the following files from the `mods` folder: 
+        *  `Djipi's 3DE - 02 Link's Textures (Delete if using a custom player model).otr`
+        * `Djipi's 3DE - 24 Majora Chest (OPTIONAL).otr`
+        * `Djipi's 3DE - 25 Majora Chest 3DS Textures (OPTIONAL).otr`
+1.  **Restart:** Restart Ship of Harkinian to apply the new textures.
+1.  **Grotto Fix:** Press **Esc**, navigate to **Enhancements**, and enable **Disable Grotto Fixed Rotation**.
+1. **Note:** there are some issues with some some of these textures apply in newer versions of SoH, see you may need a Kokiri with fours sets of eyes. It is best to also download OoT Reloaded and drag it to the bottom of the Enable Mods list under Settings > Mod Menu to make up for some missing textures in the 3DS version.
+
+## Final Notes
+Enjoy playing Ocarina of Time!
