@@ -96,7 +96,8 @@ While Ship of Harkinian offers extensive QoL options, some can alter the game's 
     *   **Camera Fixes:** Enable **Fix Camera Drift**, **Fix Camera Swing**, and **Fix Hanging Ledge Swing Rate**.
 
 # Texture Packs
-This section covers recommended texture pack mods to enhance the visual fidelity of Ocarina of Time.
+This section covers recommended texture pack mods to enhance the visual fidelity of Ocarina of Time. Select one or the other depending on your preference as having both could cause graphical glitches.
+
 
 ### OoT Reloaded
 **OoT Reloaded** is a comprehensive high-definition texture pack created by GhostlyDark. It aims to modernize the game's visuals while remaining faithful to the original N64 aesthetic.
