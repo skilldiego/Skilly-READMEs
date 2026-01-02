@@ -82,6 +82,9 @@ While Ship of Harkinian offers extensive QoL options, some can alter the game's 
     *   **Item Count Messages:** Enable **Gold Skulltula Tokens**, **Pieces of Heart**, and **Heart Containers**.
     *   **Misc:** Enable **Better Owl**.
     *   **Convenience:** Enable **Instant Putaway**.
+1. Navigate to **Enhancements** > **Skips & Speed-ups**.
+    *   Enable **Faster Pause Menu**.
+    *   **Misc:** Enable **Skip Save Confirmation**.
 1. Navigate to **Enhancements** > **Items**.
     *   **Equipment:** Enable **Equip Items on Dpad**, **Assignable Tunics and Boots**, and **Ask to Equip New Items**.
     *   **Ocarina:** Enable **Prevent Dropped Ocarina Inputs** and **Fast Ocarina Playback**.
