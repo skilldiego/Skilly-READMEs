@@ -41,7 +41,7 @@ To configure and remap buttons:
     | **L** | LB |
     | **R** | RT |
     | **Z** | LT |
-    | **C-Up** | *Unbind* |
+    | **C-Up** | RS (Right Stick Click) |
     | **C-Down** | RB |
     | **C-Left** | Y |
     | **C-Right** | B |
@@ -51,7 +51,7 @@ To configure and remap buttons:
     *   **Camera Controls:** Enable **Right Stick Aiming** and **Allow moving while in first-person mode**.
     *   **Third-Person Camera:** Enable **Free Look** (allows right-stick camera control).
     *   **Inversion:** (Optional) Disable **Invert Aiming Y Axis** and **Invert Z-Weapon Aiming Y Axis**.
-1. **Navi Fix:** Since **C-Up** was unbound, you must enable an enhancement to talk to Navi.
+1. **Navi on L Button:** Since the L button doesn't get much love, you can enable the following to use it to answer Navi.
     *   Close the **Controls** window.
     *   Go to **Enhancements** > **Quality of Life**.
     *   Enable **Answer Navi Prompt with L Button**.
