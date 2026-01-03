@@ -48,7 +48,7 @@ To configure and remap buttons:
 
 1. **Additional Control Settings:** Scroll down in the Controls window to configure the following:
     *   **Ocarina Controls:** Enable **Dpad Ocarina Playback**.
-    *   **Camera Controls:** Enable **Right Stick Aiming** and **Allow moving while in first-person mode**.
+    *   **Camera Controls:** Enable **Right Stick Aiming**.
     *   **Third-Person Camera:** Enable **Free Look** (allows right-stick camera control).
     *   **Inversion:** (Optional) Disable **Invert Aiming Y Axis** and **Invert Z-Weapon Aiming Y Axis**.
 1. **Navi on L Button:** Since the L button doesn't get much love, you can enable the following to use it to answer Navi.
