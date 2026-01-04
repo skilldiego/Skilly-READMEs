@@ -79,7 +79,7 @@ While Ship of Harkinian offers extensive QoL options, some can alter the game's 
     *   **Misc:** Enable **Better Owl**.
     *   **Convenience:** Enable **Instant Putaway**.
 1. Navigate to **Enhancements** > **Skips & Speed-ups**.
-    *   Enable **Skip Text** and **Faster Pause Menu**.
+    *   Enable **Skip Text**, **Empty Bottles Faster** and **Faster Pause Menu**.
     *   Set **Vine/Ladder Climb** to **+1**, **Block Pushing Speed** to **+2**, and **Crawl Speed** to **2x**.
 1. Navigate to **Enhancements** > **Items**.
     *   **Equipment:** Enable **Equip Items on Dpad**, **Assignable Tunics and Boots**, and **Ask to Equip New Items**.
