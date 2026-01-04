@@ -51,10 +51,6 @@ To configure and remap buttons:
     *   **Camera Controls:** Enable **Right Stick Aiming**.
     *   **Third-Person Camera:** Enable **Free Look** (allows right-stick camera control).
     *   **Inversion:** (Optional) Disable **Invert Aiming Y Axis** and **Invert Z-Weapon Aiming Y Axis**.
-1. **Navi on L Button:** Since the L button doesn't get much love, you can enable the following to use it to answer Navi.
-    *   Close the **Controls** window.
-    *   Go to **Enhancements** > **Quality of Life**.
-    *   Enable **Answer Navi Prompt with L Button**.
 1. **Ready to Play:** Press **Esc** to close the menu and start the game. If you wish to apply further enhancements, proceed to the next section.
 
 # Optimal Graphics
