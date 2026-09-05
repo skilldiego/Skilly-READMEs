@@ -2,6 +2,8 @@
 
 This guide explains how to set up a custom email address (e.g., `me@mydomain.com`) using a domain managed by Cloudflare and a personal Gmail account. This allows you to receive and send emails using your custom domain.
 
+> **Important Gmail change:** Google plans to remove Gmail's web and mobile **Send mail as** support for third-party addresses in **January 2027**. Google may restrict new configurations during Q3-Q4 2026. Cloudflare forwarding to Gmail will continue to work, but use a desktop mail client, your provider's mail interface, or Google Workspace for sending after this change. See Google's [announcement about third-party email support](https://support.google.com/mail/answer/17101213?hl=en).
+
 > **Adapted from here:** [From Reddit - How to Set Up a Custom Email Using Gmail + Cloudflare for FREE](https://www.reddit.com/r/SaaS/comments/1g0m0um/how_to_set_up_a_custom_email_using_gmail/)
 
 ## Prerequisites
@@ -40,7 +42,7 @@ To send email via Gmail's SMTP servers using an external alias, you need an App 
 > **Security Note:** An App Password grants access to your Google Account (specifically for Mail) and bypasses 2-Step Verification. Treat it with the same care as your main password. If you ever stop using this setup, remember to delete the App Password in your Google Account settings.
 
 ## 3. Gmail Setup (Sending)
-Configure Gmail to send mail as your custom domain.
+Configure Gmail to send mail as your custom domain. This is a temporary option for third-party addresses because Google plans to discontinue this feature in January 2027.
 
 1.  Open Gmail and go to **Settings** (gear icon) > **See all settings**.
 2.  Click the **Accounts and Import** tab.
@@ -61,6 +63,8 @@ Configure Gmail to send mail as your custom domain.
     *   Gmail will send a confirmation code to your custom email address.
     *   Since Cloudflare is forwarding this to your inbox, check your Gmail for the code.
     *   Enter the code in the popup window and click **Verify**.
+
+> **Before January 2027:** Complete this setup while Gmail still supports third-party **Send mail as** addresses. Google may prevent new configurations during the transition period. After the change, continue receiving forwarded mail in Gmail, but send from a desktop mail client, your provider's interface, or Google Workspace.
 
 ## 4. (Optional) Advanced: Configure SMTP Relay (Fix DKIM)
 ### Important Note on Deliverability (DKIM)
